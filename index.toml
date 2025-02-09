@@ -700,6 +700,10 @@ hash = "8f24c32dfb990b6741be6085cc2e478b675bafdb368a059fd431e39f3253af9e"
 metafile = true
 
 [[files]]
+file = "mods/trackwork_plus-1.20.1-1.0.0.jar"
+hash = "4ed7d138fe9018c0e09931fec2588d84680aacbf7d83ec466bdbdaf412b9f290"
+
+[[files]]
 file = "mods/turtlematic.pw.toml"
 hash = "39af17bc142b6ed455f36e2d675ccf770144539d6f3cc2887983fd4631d1b259"
 metafile = true
