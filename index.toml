@@ -360,9 +360,8 @@ hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
 metafile = true
 
 [[files]]
-file = "mods/figura.pw.toml"
-hash = "7b411f636c4a61db20882904e79625750ff1230c83763a0a426c04a8bbf8d7f1"
-metafile = true
+file = "mods/figura-0.1.4+1.20.1-forge-mc.jar"
+hash = "22ec32767a2bde466027a32bad7c1277f6bee027d42c94e2ebe167a5ad4ff0c2"
 
 [[files]]
 file = "mods/framedblocks.pw.toml"
