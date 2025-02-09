@@ -247,6 +247,11 @@ hash = "1a671e706d847e222c95dae4caa9c2c9d7d5525ed877938480d70503063417b0"
 metafile = true
 
 [[files]]
+file = "mods/create-tank-defenses.pw.toml"
+hash = "387b75010a7dbcb20e21720d6daa8736d6785534d81cb9ce5c7a28ec04e2636c"
+metafile = true
+
+[[files]]
 file = "mods/create-tfmg.pw.toml"
 hash = "1ea4e0f523d42b19dc47c558c82b554d26b3d0a622eb886e0f30ca502a2a4580"
 metafile = true
