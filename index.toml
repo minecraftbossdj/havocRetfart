@@ -346,6 +346,10 @@ hash = "657f2b623f343322a62f3770bf3d48cfd99a8e54bec8304877171b1b70275a08"
 metafile = true
 
 [[files]]
+file = "mods/eureka-1201-1.5.1-beta.3.jar"
+hash = "f790498b949be8c856722600e4361165c2e05bd218cfc9b498e2da5e39f775c1"
+
+[[files]]
 file = "mods/expanded-storage.pw.toml"
 hash = "b56e4dc7469ddc27f6b881573fe6761b3a7b3070fb94b3228b12968e0f7dfec0"
 metafile = true
@@ -639,6 +643,10 @@ hash = "93b4c3e22cfb743e62c34f56c4c5b69909603fa8fe2601a39139bcbd330f48eb"
 metafile = true
 
 [[files]]
+file = "mods/sophisticatedinjections-1.0.jar"
+hash = "9682896c47621f6e38ce14bf17e2f7c60fca35bd428babbafbac3b175ecc3d53"
+
+[[files]]
 file = "mods/systeams.pw.toml"
 hash = "5cac34f36c1877cfc9b6039d245a0b00cd41c2fccff09a77ecb89bb01c6f3084"
 metafile = true
@@ -731,6 +739,10 @@ metafile = true
 file = "mods/vs-tournament.pw.toml"
 hash = "09bc666249e4d1d029c01d8fc298732b25ddd98edb49d5fc19dd0ceb5fd70d9e"
 metafile = true
+
+[[files]]
+file = "mods/vs_addition-1.20.1-0.0.9+6fa2d9c25b.jar"
+hash = "6cc4a089b8e6659519dd0a83cee8bb93ee24bfb6e1509f82757af7d3b8f200a9"
 
 [[files]]
 file = "mods/waterframes.pw.toml"
