@@ -292,6 +292,11 @@ hash = "14b26b06c4b7cbd3b3a6acc1f99e5cb021a45120f8ac66832e774e59d8b54b44"
 metafile = true
 
 [[files]]
+file = "mods/dcintegration.pw.toml"
+hash = "7c1ac01f8026fac8630fa7762a4325bfda54578d7904890904308b921d33ebd8"
+metafile = true
+
+[[files]]
 file = "mods/draconic-evolution.pw.toml"
 hash = "c52190e63b54ec056c89d3d55e72271159350e09150c394eae5862801947947d"
 metafile = true
