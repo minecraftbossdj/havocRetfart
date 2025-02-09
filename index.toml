@@ -68,10 +68,6 @@ hash = "dcfcb5a0d4132f1baa0f66e824531d1bbcb77c1b7ca2b5d3497514e233564dd8"
 metafile = true
 
 [[files]]
-file = "mods/buildcraft-7.99.24.9.jar"
-hash = "8426c34fa0e9c9d1ca0f6f0b121ea275520771223c2e72212d5843ead27d7f33"
-
-[[files]]
 file = "mods/caelus.pw.toml"
 hash = "8a8ea0af79b88d9c192d208aa5be4bacd934e2b92d4721566e2e796eb9761e10"
 metafile = true
@@ -446,7 +442,7 @@ metafile = true
 
 [[files]]
 file = "mods/inline.pw.toml"
-hash = "2d6a9622b8ef1f30f413b389108e985ef7b86030ce1b4de6648adb8b20e9dd3f"
+hash = "a2b0c3d01979ba469a0c5acfe5b27c5ae568981994bf008a4e1a0e0a07405b11"
 metafile = true
 
 [[files]]
