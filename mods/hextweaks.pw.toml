@@ -1,0 +1,13 @@
+name = "HexTweaks"
+filename = "hextweaks-5.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pim6pG9O/versions/tJmImoF1/hextweaks-5.0.3.jar"
+hash-format = "sha512"
+hash = "3c5ae05852c0df7b91b3f936a0fca74c3fec3807501f4a3c947133af31a946e578a352fa07be0673c3758bf0dec9f8ca2502bf0b6d985c0254a8a1c2be5a2e74"
+
+[update]
+[update.modrinth]
+mod-id = "pim6pG9O"
+version = "tJmImoF1"

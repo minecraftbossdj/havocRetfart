@@ -1,0 +1,13 @@
+name = "Cooking for Blockheads"
+filename = "cookingforblockheads-forge-1.20.1-16.0.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vJnhuDde/versions/ezlJteqn/cookingforblockheads-forge-1.20.1-16.0.10.jar"
+hash-format = "sha512"
+hash = "7348a0f2ff4e69705b37d0ac681f4c76d35ab11b5a3c39071746c6a46eb4e94f92be0b5241f6b09d9d4388395d7d7112898c9208dc84c85f603e29204932acbf"
+
+[update]
+[update.modrinth]
+mod-id = "vJnhuDde"
+version = "ezlJteqn"
