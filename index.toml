@@ -485,6 +485,11 @@ hash = "f1f21b8cf3d33a9bf74a2668499f105f1fdff65e6597e90e0a03ae0e201ba2e9"
 metafile = true
 
 [[files]]
+file = "mods/lmft.pw.toml"
+hash = "ccb79452729ccb62e2a3afa88b80e834411ac1e9ed4712cbd27be6ba98d4ff79"
+metafile = true
+
+[[files]]
 file = "mods/mantle.pw.toml"
 hash = "38ea2676136952bde1c1653e2a432fdbae0cb71c6be093488d7d2a375bfecc0a"
 metafile = true
