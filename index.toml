@@ -29,7 +29,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
+hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
 metafile = true
 
 [[files]]
@@ -360,10 +360,6 @@ hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
 metafile = true
 
 [[files]]
-file = "mods/figura-0.1.4+1.20.1-forge-mc.jar"
-hash = "22ec32767a2bde466027a32bad7c1277f6bee027d42c94e2ebe167a5ad4ff0c2"
-
-[[files]]
 file = "mods/framedblocks.pw.toml"
 hash = "fc26e28382062a5e04d4b1d991ac13412f1d4b7a0b3fdec9689fd25fd2306186"
 metafile = true
@@ -374,8 +370,18 @@ hash = "2a4f28e582d8bb538efaeb0faa5a8592f44b2e90dd192af58852f45aa7be8be8"
 metafile = true
 
 [[files]]
+file = "mods/ftb-backups-2.pw.toml"
+hash = "af138ead9ed4013fab79bd0ebda5cd381c982dd6513e96f13d324a06e374cdd2"
+metafile = true
+
+[[files]]
 file = "mods/ftb-chunks-forge.pw.toml"
 hash = "e4a60dc6d46d1070e33b8972e2c000a200928d3a401af21df57649f39e207bf5"
+metafile = true
+
+[[files]]
+file = "mods/ftb-essentials.pw.toml"
+hash = "ec9e13fc5fa49d1aa91d51ac05c7056578056a5fd03c96e084a4eec80aeda678"
 metafile = true
 
 [[files]]
@@ -513,6 +519,11 @@ hash = "0180795ee0b19a9e9135f17e24e5a1f5536e634d72ebddbdd98a91a8fa1cb79b"
 metafile = true
 
 [[files]]
+file = "mods/modlistobserver.pw.toml"
+hash = "567d6baacab5599137f16ac97a7c4dd4cea0075f72ed15230e64125455eddc3a"
+metafile = true
+
+[[files]]
 file = "mods/more-peripherals.pw.toml"
 hash = "22fdac711ad40f7498c547d8a6df6cf7865909f050d16c7f59d6284a3be67509"
 metafile = true
@@ -562,6 +573,11 @@ hash = "db79692898d1ac0d9d8e69716603ab6d5021bfedc12d64eb97529687868fbf0e"
 metafile = true
 
 [[files]]
+file = "mods/polylib.pw.toml"
+hash = "947d5f3b9213360b68e9b65a8d2d5111939e82e248cf61eb02137f119c6eaeb6"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "6f13cf7ee6ed32570b37f8c08bcdbc07ac31ea959d58c9f4fd618bffe56b3c9e"
 metafile = true
@@ -572,9 +588,8 @@ hash = "76bfc1b2689919394cdf14b28cc97110f20a43e53aa69bbccd1b4a6aa850a046"
 metafile = true
 
 [[files]]
-file = "mods/ponder.pw.toml"
-hash = "1ee5caa6e7b661d336a6b69f9468c849e9c6a7e52ab2814487256b53443b15d2"
-metafile = true
+file = "mods/ponderjs-1.20.1-1.4.0.jar"
+hash = "056980753033ac0d58ad3819a3caf538f2f2a43a33ba16780eebe514b2bed68a"
 
 [[files]]
 file = "mods/quark.pw.toml"
@@ -648,6 +663,11 @@ hash = "9682896c47621f6e38ce14bf17e2f7c60fca35bd428babbafbac3b175ecc3d53"
 [[files]]
 file = "mods/systeams.pw.toml"
 hash = "5cac34f36c1877cfc9b6039d245a0b00cd41c2fccff09a77ecb89bb01c6f3084"
+metafile = true
+
+[[files]]
+file = "mods/tempban.pw.toml"
+hash = "a52fdc5212b7ff3f089eefcf6f1eb9696b0b50fcaf0fa3cb81b05968fb2694e7"
 metafile = true
 
 [[files]]
@@ -727,6 +747,11 @@ metafile = true
 [[files]]
 file = "mods/valkyrien-skies.pw.toml"
 hash = "4e3d9b34be042ffd29daf13b1f1f03f2076ce063fb7504f0da2c1a6756b5a6f3"
+metafile = true
+
+[[files]]
+file = "mods/vanishmod.pw.toml"
+hash = "6cdd0327a10ccd5c02143d602da29d6c94313640d3bcc5f2946054bb8f1cf21b"
 metafile = true
 
 [[files]]
