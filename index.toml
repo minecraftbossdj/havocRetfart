@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/tacz/custom/Immersive Armorer-v1.1.4-for114+.zip"
+hash = "53df4f5d8d8acfe0ffb71628f845df7c426e58745adf876c76a7207dfbb3ee6d"
+
+[[files]]
 file = "mods/Applied-Mekanistics-1.4.2.jar"
 hash = "957e59989cc8388bcc10c42c8f68c0f1e3afce8a066a02bb2b6d0f4d641cce55"
 
@@ -68,6 +72,11 @@ hash = "dcfcb5a0d4132f1baa0f66e824531d1bbcb77c1b7ca2b5d3497514e233564dd8"
 metafile = true
 
 [[files]]
+file = "mods/cable-facades.pw.toml"
+hash = "f27fae30177a5bd074cd60ea4cd3e65d56d3bf148a827efeeed68aeac4879a28"
+metafile = true
+
+[[files]]
 file = "mods/caelus.pw.toml"
 hash = "8a8ea0af79b88d9c192d208aa5be4bacd934e2b92d4721566e2e796eb9761e10"
 metafile = true
@@ -75,6 +84,11 @@ metafile = true
 [[files]]
 file = "mods/canary.pw.toml"
 hash = "14481081a9e233f4ba57df8a77ce028184818143eae1c73b60749ea482c912e9"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "a613f5d2df911fea606968bbdb56eebfd05ac02ada846cf0d2e56e72345d9338"
 metafile = true
 
 [[files]]
@@ -233,6 +247,11 @@ hash = "d58a5d14fb74bb823416938acb08d4d1a046565dd452b26351b4b1b220bc6a78"
 metafile = true
 
 [[files]]
+file = "mods/create-radars.pw.toml"
+hash = "f1bb4116e3b6ccff2b4e9c6d61e90fd66fbbe238e6674298545a129f9ad52657"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "ba16d5e568349bc79bb6a648090047fee23db3931f5399f9ad09c930410c740c"
 metafile = true
@@ -240,6 +259,11 @@ metafile = true
 [[files]]
 file = "mods/create-stuff-additions.pw.toml"
 hash = "1a671e706d847e222c95dae4caa9c2c9d7d5525ed877938480d70503063417b0"
+metafile = true
+
+[[files]]
+file = "mods/create-tacz-automation.pw.toml"
+hash = "d41f16ee5886f5070c9dee0b21c72a00c125b279029f311e7308398408de4efb"
 metafile = true
 
 [[files]]
@@ -342,6 +366,11 @@ hash = "46cb477f4a9b2f9b068cc0d3ca3a4a99ee00f08c4892202fb5c3ae8449f3618f"
 metafile = true
 
 [[files]]
+file = "mods/entangled.pw.toml"
+hash = "90437f2aba9636ac77f3c61dc28a46fda4aef07c44f744ec01df4557a55b5afc"
+metafile = true
+
+[[files]]
 file = "mods/essential.pw.toml"
 hash = "664841c76479f684daa0f92229350bd506a7c4aefe7cb43012375cf2155434dc"
 metafile = true
@@ -426,6 +455,10 @@ hash = "59a167a2e05a518d25d1e6f1b4789bad66a47e7fa2909817c5ec433c7aa46661"
 metafile = true
 
 [[files]]
+file = "mods/hexal-forge-1.20.1-0.3.0-3-skyevg-unofficial.jar"
+hash = "fac82bd7fbdc9f75a093a479ab7506483a6b68c3994b5a4d36c1dab74b069264"
+
+[[files]]
 file = "mods/hextweaks.pw.toml"
 hash = "64c0cc000ab579d423b257690a232b0b16ffa1bb87c867dbbb76135a9e7fc3f7"
 metafile = true
@@ -448,6 +481,11 @@ metafile = true
 [[files]]
 file = "mods/inventory-essentials.pw.toml"
 hash = "355b8e763ceeab999bc60e6911cd6cda61b62d520f3d2397736bf8ae53a9bd25"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "e1b7575ede41282245f402976e29af128960d7dd4d34827c8068b06e3fdb30a6"
 metafile = true
 
 [[files]]
@@ -482,6 +520,11 @@ metafile = true
 [[files]]
 file = "mods/laserio-uel.pw.toml"
 hash = "f1f21b8cf3d33a9bf74a2668499f105f1fdff65e6597e90e0a03ae0e201ba2e9"
+metafile = true
+
+[[files]]
+file = "mods/lexiconfig.pw.toml"
+hash = "0c2f445dc77db59e8c2bf464c8ffed8af248ece9edb540dba80d8b31a00a4c23"
 metafile = true
 
 [[files]]
@@ -532,6 +575,11 @@ metafile = true
 [[files]]
 file = "mods/modlistobserver.pw.toml"
 hash = "567d6baacab5599137f16ac97a7c4dd4cea0075f72ed15230e64125455eddc3a"
+metafile = true
+
+[[files]]
+file = "mods/more-mekanism-processing.pw.toml"
+hash = "d5c1200727d45146364090a52486215190bcdbda62931620b224c2375af74663"
 metafile = true
 
 [[files]]
@@ -638,6 +686,11 @@ hash = "a9eba3b71e598b8192e9098bd47b182559cf5fa9ca0ecdcac6e84275763387ac"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-radio.pw.toml"
+hash = "d51dd03f1993f332ca1efd1618ba716d13d133cd256a6a1d7c8b4201b33e0b3c"
+metafile = true
+
+[[files]]
 file = "mods/simply-jetpacks-2.pw.toml"
 hash = "e2a87de59ad720766770d440978c97d2321f042b3113bb9abcc7d5b4a72f3321"
 metafile = true
@@ -670,6 +723,16 @@ metafile = true
 [[files]]
 file = "mods/sophisticatedinjections-1.0.jar"
 hash = "9682896c47621f6e38ce14bf17e2f7c60fca35bd428babbafbac3b175ecc3d53"
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "1cf9cb3955b075664ea4fba13b47fe7160975740a28864983aebd53d39c1946e"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "b969799c17defc1e7c76e4605557c9d32802a0004a5e45b7044e85d3d9c43345"
+metafile = true
 
 [[files]]
 file = "mods/systeams.pw.toml"
@@ -723,7 +786,7 @@ metafile = true
 
 [[files]]
 file = "mods/timeless-and-classics-zero.pw.toml"
-hash = "4d30fd305885feef68bb6b4c3d5e5945b96b6b2e7cd44c6455c29133037217ba"
+hash = "aaca9ae5d888e74a2502305df67cd240330f5b6b2a800b19c1d7cb53bf1dc4f6"
 metafile = true
 
 [[files]]
@@ -744,6 +807,11 @@ metafile = true
 [[files]]
 file = "mods/trackwork_plus-1.20.1-1.0.0.jar"
 hash = "4ed7d138fe9018c0e09931fec2588d84680aacbf7d83ec466bdbdaf412b9f290"
+
+[[files]]
+file = "mods/trash-cans.pw.toml"
+hash = "4a8a42c4c7834873a5f64f0f4e07eb46056329b345a1b835d8ea0aff2390fc0e"
+metafile = true
 
 [[files]]
 file = "mods/turtlematic.pw.toml"
