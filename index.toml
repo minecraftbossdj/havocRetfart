@@ -455,8 +455,8 @@ hash = "59a167a2e05a518d25d1e6f1b4789bad66a47e7fa2909817c5ec433c7aa46661"
 metafile = true
 
 [[files]]
-file = "mods/hexal-forge-1.20.1-0.3.0-3-skyevg-unofficial.jar"
-hash = "fac82bd7fbdc9f75a093a479ab7506483a6b68c3994b5a4d36c1dab74b069264"
+file = "mods/hexal-forge-1.20.1-0.3.0-3-skyevg-MODIFIED-unofficial.jar"
+hash = "21b9e09a9ced742cbe351f7f577f55f02e282a04502360713cd0b84874c35828"
 
 [[files]]
 file = "mods/hextweaks.pw.toml"
