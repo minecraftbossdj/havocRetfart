@@ -1,0 +1,13 @@
+name = "Cable Facades"
+filename = "cable_facades-1.20.1-Forge-1.2.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/twipgzWx/versions/cmdrdGA8/cable_facades-1.20.1-Forge-1.2.3.jar"
+hash-format = "sha512"
+hash = "bbc2c060dde17da61139d1b9568da761b3fbff4af2407e23023b8369295a2235fa6ab638b9ab253657b818bb0cf25e64b35873c1e0f846f24b513fc8651f8ca5"
+
+[update]
+[update.modrinth]
+mod-id = "twipgzWx"
+version = "cmdrdGA8"
