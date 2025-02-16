@@ -27,6 +27,16 @@ hash = "d1bfaa8ca8831f1c43a971ab29672df863c3afb530abf278ebad4a8b9faf0499"
 metafile = true
 
 [[files]]
+file = "mods/alchemistry.pw.toml"
+hash = "ad8e84dc8f6d5ccf78432345cec082c76a2f828b8e014986cf3080626cd0840e"
+metafile = true
+
+[[files]]
+file = "mods/alchemylib.pw.toml"
+hash = "443eeba299b820216c4da449a71138104a57274909e71e9a0f26c4709f47506e"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "793693a85f3c87d4e899ee0c58deabc53690bf5a70f17343f28fd5063ce8a1e1"
 metafile = true
@@ -49,6 +59,11 @@ metafile = true
 [[files]]
 file = "mods/artifacts.pw.toml"
 hash = "4832575af4fab2b691cc82c106a4a2e4da4136eab77d7360bc3b1250fc6f1656"
+metafile = true
+
+[[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "e11ddca37c00c8cdf8ee89c7b59df544f50966d2d6c5b016916f023afb98c02e"
 metafile = true
 
 [[files]]
@@ -104,6 +119,16 @@ metafile = true
 [[files]]
 file = "mods/cccbridge.pw.toml"
 hash = "6e680be3cca5047fa566588220045ba76faf90889319c7aff3c03dd450065d20"
+metafile = true
+
+[[files]]
+file = "mods/chemlib.pw.toml"
+hash = "882da059a6d7439b9cdf746813c61ce1e8e73c00a88e4e0cbe4412d4c312702a"
+metafile = true
+
+[[files]]
+file = "mods/chipped.pw.toml"
+hash = "b0732421ae2999d558a7b70a11fa86a93738ca33f6f3ec343017796df9c47d9c"
 metafile = true
 
 [[files]]
@@ -219,6 +244,11 @@ metafile = true
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "5f7a3b72de601f8f68fd3ddb021b5875c1332d81bd1b634f4f1424acbd2c20a3"
+metafile = true
+
+[[files]]
+file = "mods/create-ender-transmission.pw.toml"
+hash = "7a029e4f304faca136f8b8dc230f84989ddc9313f5a934636095b63abd04fb30"
 metafile = true
 
 [[files]]
@@ -381,6 +411,11 @@ hash = "657f2b623f343322a62f3770bf3d48cfd99a8e54bec8304877171b1b70275a08"
 metafile = true
 
 [[files]]
+file = "mods/etched.pw.toml"
+hash = "bd2b62e4397f57220ddf4d862b5c6d87de3192b4ff4da14e9f5d00029ed13c48"
+metafile = true
+
+[[files]]
 file = "mods/eureka-1201-1.5.1-beta.3.jar"
 hash = "f790498b949be8c856722600e4361165c2e05bd218cfc9b498e2da5e39f775c1"
 
@@ -475,7 +510,7 @@ metafile = true
 
 [[files]]
 file = "mods/inline.pw.toml"
-hash = "a2b0c3d01979ba469a0c5acfe5b27c5ae568981994bf008a4e1a0e0a07405b11"
+hash = "5c10779d56d097b81709eb20b8ee3da92d0e959e8d3a0519fb7833498cfe3864"
 metafile = true
 
 [[files]]
