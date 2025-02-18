@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/tacz/custom/Immersive Armorer-v1.1.4-for114+.zip"
-hash = "53df4f5d8d8acfe0ffb71628f845df7c426e58745adf876c76a7207dfbb3ee6d"
-
-[[files]]
 file = "mods/Applied-Mekanistics-1.4.2.jar"
 hash = "957e59989cc8388bcc10c42c8f68c0f1e3afce8a066a02bb2b6d0f4d641cce55"
 
@@ -17,13 +13,28 @@ file = "mods/[1.20.1 Forge]Some-Peripherals-0.0.12.jar"
 hash = "f7520587de63dfc4ad0d5ad29a3539474103b01669214aa3241171c6b7f33742"
 
 [[files]]
+file = "mods/advancedae.pw.toml"
+hash = "35f2e552038f05828a4d4a76dc875ab6ed261f93fce9a3a54d3b20be7d8d7acb"
+metafile = true
+
+[[files]]
 file = "mods/advancedperipherals.pw.toml"
 hash = "63833ffe55dc61c65d118669f3ba9d9870310dc2354387cba81011490bc40ccf"
 metafile = true
 
 [[files]]
+file = "mods/ae2-things-forge.pw.toml"
+hash = "8f7696617249a4be35a9d1a2caecce4e17bbffe823f904d10c6fc8b72c4352ca"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "d1bfaa8ca8831f1c43a971ab29672df863c3afb530abf278ebad4a8b9faf0499"
+metafile = true
+
+[[files]]
+file = "mods/aeinfinitybooster.pw.toml"
+hash = "e380187cf1daf27828ecba14a0752da077a84a588c8a46bf93eb7e3e7d41a386"
 metafile = true
 
 [[files]]
@@ -39,6 +50,11 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "793693a85f3c87d4e899ee0c58deabc53690bf5a70f17343f28fd5063ce8a1e1"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2.pw.toml"
+hash = "c6cef4430ac97995e435b526f54876ade62e57a5a5b5d9f740760fc4026349cf"
 metafile = true
 
 [[files]]
@@ -494,6 +510,11 @@ hash = "7ebfb737cf7bc520cdfd207892af2d7e399d69f83500042a8860084a2726a32f"
 metafile = true
 
 [[files]]
+file = "mods/glodium.pw.toml"
+hash = "ce26e71a01dc450b60d754bc44675915e8a54f2bb6db215a76a21e43fad3d44e"
+metafile = true
+
+[[files]]
 file = "mods/hex-casting.pw.toml"
 hash = "59a167a2e05a518d25d1e6f1b4789bad66a47e7fa2909817c5ec433c7aa46661"
 metafile = true
@@ -597,6 +618,11 @@ hash = "7041659854a3033c9bf27e758ab3d6e65e26acc59961283f2ded5ffe13532330"
 metafile = true
 
 [[files]]
+file = "mods/mega.pw.toml"
+hash = "d9d3fe576eb7a4e3a2c7c08ecade6a000ca15cc07a1fe9444d2a37cce8f27f2f"
+metafile = true
+
+[[files]]
 file = "mods/mekanism-additions.pw.toml"
 hash = "26169e0fde39fbd5c064385cfeccf9a77df1435a58e89fbadb298c56c477b3e1"
 metafile = true
@@ -673,6 +699,16 @@ metafile = true
 [[files]]
 file = "mods/peripheralium.pw.toml"
 hash = "fac1fc963952e2ca10e21289d27cc3a2629cb0f2f33b8ec33f2d37cf9335fd08"
+metafile = true
+
+[[files]]
+file = "mods/petrolpark.pw.toml"
+hash = "92b0421c5367bb6dc44435fa3808504e84e1c5a8ed3d919124b472b5f7f58f04"
+metafile = true
+
+[[files]]
+file = "mods/petrols-parts.pw.toml"
+hash = "7037d66fa06175db1cde18978d460da6c38a57074e30848363c69afbb2263320"
 metafile = true
 
 [[files]]
@@ -794,6 +830,10 @@ hash = "5cac34f36c1877cfc9b6039d245a0b00cd41c2fccff09a77ecb89bb01c6f3084"
 metafile = true
 
 [[files]]
+file = "mods/tacz_fire_control_extension-1.1.3+mc1.20.1+tacz1.1.4.jar"
+hash = "6197abf0fa66fbaf4a9dcc3000da86abb68eba1b060ce8ff814d07f6ce136c2e"
+
+[[files]]
 file = "mods/tempban.pw.toml"
 hash = "a52fdc5212b7ff3f089eefcf6f1eb9696b0b50fcaf0fa3cb81b05968fb2694e7"
 metafile = true
@@ -859,8 +899,9 @@ hash = "8f24c32dfb990b6741be6085cc2e478b675bafdb368a059fd431e39f3253af9e"
 metafile = true
 
 [[files]]
-file = "mods/trackwork_plus-1.20.1-1.0.0.jar"
-hash = "4ed7d138fe9018c0e09931fec2588d84680aacbf7d83ec466bdbdaf412b9f290"
+file = "mods/trackwork.pw.toml"
+hash = "28be4cbc383219609173f427c918e0593e98498accd31fdb923ab00d8e6cbe3d"
+metafile = true
 
 [[files]]
 file = "mods/trash-cans.pw.toml"
@@ -925,3 +966,19 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "cb92831ae1333084aee2e0582ad76e074ee902f76939b2e2c4d288b831d27f1a"
 metafile = true
+
+[[files]]
+file = "tacz/Applied Armorer-v1.1.4.1-for114+.zip"
+hash = "e52ddb8b6412951f9b79c9ed9a7521a849cef4192f19af4843a3392cdbcfc420"
+
+[[files]]
+file = "tacz/Cyber Armorer-1.1.4.3.1_for114.zip"
+hash = "773aed08866fd38435327a3ccf96241808d44389d40b54ff5ec8d2851403a8f5"
+
+[[files]]
+file = "tacz/Immersive Armorer-v1.1.4-for114+.zip"
+hash = "53df4f5d8d8acfe0ffb71628f845df7c426e58745adf876c76a7207dfbb3ee6d"
+
+[[files]]
+file = "tacz/[Tacz1.1.4+]EMX-Arms GunsPack ver0.9.5.zip"
+hash = "892426ee7a4ff33a19fa9e7d5304f476485ff79d10e63e42ef32470d2fee5f02"
