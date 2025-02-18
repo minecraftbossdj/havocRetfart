@@ -672,11 +672,6 @@ file = "mods/moreiotas-forge-1.20.1-0.1.0-5.jar"
 hash = "127054c462271adc93154a40ea9ef7c05da95847abc390cb21326a0210a250d9"
 
 [[files]]
-file = "mods/motion-capture.pw.toml"
-hash = "61b6c98a6d731439b86ece379a08ce6ada67fc6e71b301e7f3398fe74b7de1ea"
-metafile = true
-
-[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "679fa8f3b49b9ed3fbcb29d6ccdb99bce465faa01f9cec000464ac8d4fbe134f"
 metafile = true
