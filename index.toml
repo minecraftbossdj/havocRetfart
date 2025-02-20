@@ -48,6 +48,16 @@ hash = "443eeba299b820216c4da449a71138104a57274909e71e9a0f26c4709f47506e"
 metafile = true
 
 [[files]]
+file = "mods/apotheosis.pw.toml"
+hash = "4fc425234d70f254e2b420d7c01d33c4c1666366c64909114c943a1b15e436d0"
+metafile = true
+
+[[files]]
+file = "mods/apothic-attributes.pw.toml"
+hash = "7ec91c6a496a122e84c4f0e7737175bf869dda8e046a208ef6e13830ca731378"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "793693a85f3c87d4e899ee0c58deabc53690bf5a70f17343f28fd5063ce8a1e1"
 metafile = true
@@ -95,6 +105,11 @@ metafile = true
 [[files]]
 file = "mods/betterperipherals-4.2-RELEASE-1.20.1.jar"
 hash = "1a5c9d1b0ad7cf0cc7a5ae40e6389f19ee1d2c98be29980d29e16838ee881407"
+
+[[files]]
+file = "mods/block-of-sky.pw.toml"
+hash = "cea006482ca8f6b306ebefd018199fcd67e170902b8692efbcb6aae66e459adb"
+metafile = true
 
 [[files]]
 file = "mods/botarium.pw.toml"
@@ -372,6 +387,11 @@ hash = "7c1ac01f8026fac8630fa7762a4325bfda54578d7904890904308b921d33ebd8"
 metafile = true
 
 [[files]]
+file = "mods/do-a-barrel-roll.pw.toml"
+hash = "53fd334af7b7c6ada2b3d15a8d666011c5b54bcfc5515e6ca2d13eeb3c286b0d"
+metafile = true
+
+[[files]]
 file = "mods/draconic-evolution.pw.toml"
 hash = "c52190e63b54ec056c89d3d55e72271159350e09150c394eae5862801947947d"
 metafile = true
@@ -608,6 +628,11 @@ hash = "ccb79452729ccb62e2a3afa88b80e834411ac1e9ed4712cbd27be6ba98d4ff79"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "1dd539ec09832ab91ed62ee90f6619672fabb169b60765af063f176a13215e38"
+metafile = true
+
+[[files]]
 file = "mods/mantle.pw.toml"
 hash = "38ea2676136952bde1c1653e2a432fdbae0cb71c6be093488d7d2a375bfecc0a"
 metafile = true
@@ -648,8 +673,8 @@ hash = "26724ba15e8267a8751f472c0c45059685e16416080dac4f063dbd8f48ac858b"
 metafile = true
 
 [[files]]
-file = "mods/mffs.pw.toml"
-hash = "0180795ee0b19a9e9135f17e24e5a1f5536e634d72ebddbdd98a91a8fa1cb79b"
+file = "mods/merequester.pw.toml"
+hash = "6d52b6989ddabb53a1f86aee4ab315c2c8726b800276975eb510a31884891082"
 metafile = true
 
 [[files]]
@@ -688,7 +713,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "55c6d0b8ee25fd6a37a964805de3d2eab3f20d73a88ba77a63b4a51fd985d9dd"
+hash = "dec2bc011d4ca1d451aaa3eea477f13366bfb13beba0716018f47d9331a50d8e"
 metafile = true
 
 [[files]]
@@ -739,6 +764,11 @@ metafile = true
 [[files]]
 file = "mods/ponderjs-1.20.1-1.4.0.jar"
 hash = "056980753033ac0d58ad3819a3caf538f2f2a43a33ba16780eebe514b2bed68a"
+
+[[files]]
+file = "mods/productivebees.pw.toml"
+hash = "ebf8fb25a5a9cb17121a987d40b8ba2a5e5bcf55195dfebedaafe15162bb162f"
+metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
@@ -836,6 +866,11 @@ hash = "6197abf0fa66fbaf4a9dcc3000da86abb68eba1b060ce8ff814d07f6ce136c2e"
 [[files]]
 file = "mods/tempban.pw.toml"
 hash = "a52fdc5212b7ff3f089eefcf6f1eb9696b0b50fcaf0fa3cb81b05968fb2694e7"
+metafile = true
+
+[[files]]
+file = "mods/the-mighty-architectury.pw.toml"
+hash = "9ac5e8e1ab023cedb299a745a00201d19fd36ec289a74169071774f119efed53"
 metafile = true
 
 [[files]]
@@ -974,6 +1009,10 @@ hash = "e52ddb8b6412951f9b79c9ed9a7521a849cef4192f19af4843a3392cdbcfc420"
 [[files]]
 file = "tacz/Cyber Armorer-1.1.4.3.1_for114.zip"
 hash = "773aed08866fd38435327a3ccf96241808d44389d40b54ff5ec8d2851403a8f5"
+
+[[files]]
+file = "tacz/HLMPack1.3-hotfix.zip"
+hash = "6d4e75ea3846568d18283b7bd078c02d66b86c0a02945f09f2fe66b78353f3e2"
 
 [[files]]
 file = "tacz/Immersive Armorer-v1.1.4-for114+.zip"

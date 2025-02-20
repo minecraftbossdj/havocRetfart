@@ -1,12 +1,12 @@
-name = "Havoc Retfart"
+name = "Havoc Retfart S2"
 author = "awesomebossdj7"
-version = "3.0.0"
+version = "1.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "17ba48c5fcefa18fafb8638b6b39fc2e5bde9dbfb9365948f60060b46d57efd7"
+hash = "44c9a47b5e72ac26079f491b45d3a7bee1543e956b18bae195117bd9240c1a92"
 
 [versions]
 forge = "47.3.29"
