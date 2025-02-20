@@ -107,11 +107,6 @@ file = "mods/betterperipherals-4.2-RELEASE-1.20.1.jar"
 hash = "1a5c9d1b0ad7cf0cc7a5ae40e6389f19ee1d2c98be29980d29e16838ee881407"
 
 [[files]]
-file = "mods/block-of-sky.pw.toml"
-hash = "cea006482ca8f6b306ebefd018199fcd67e170902b8692efbcb6aae66e459adb"
-metafile = true
-
-[[files]]
 file = "mods/botarium.pw.toml"
 hash = "440a806e54d48cd4c5ef447ff8f1a6cd9a99d53d02ab90d50204be9b31c2f30d"
 metafile = true
@@ -384,11 +379,6 @@ metafile = true
 [[files]]
 file = "mods/dcintegration.pw.toml"
 hash = "7c1ac01f8026fac8630fa7762a4325bfda54578d7904890904308b921d33ebd8"
-metafile = true
-
-[[files]]
-file = "mods/do-a-barrel-roll.pw.toml"
-hash = "53fd334af7b7c6ada2b3d15a8d666011c5b54bcfc5515e6ca2d13eeb3c286b0d"
 metafile = true
 
 [[files]]
