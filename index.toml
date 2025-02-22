@@ -9,6 +9,10 @@ file = "mods/ClockworkAdditions-1.20.1-0.0.7-forge-and-fabric.jar"
 hash = "3eb085b83d201d6ba3a9bc3b84fed70b36a252f7cbff6611af7648b2491a79f6"
 
 [[files]]
+file = "mods/Draconic-Shenanigans-1.20.1-1.0.0.4-universal.jar"
+hash = "1ad1c13024a35fd8aaa731bbeaa447f9c770fa4dca93b87810d2302386980053"
+
+[[files]]
 file = "mods/[1.20.1 Forge]Some-Peripherals-0.0.12.jar"
 hash = "f7520587de63dfc4ad0d5ad29a3539474103b01669214aa3241171c6b7f33742"
 
@@ -232,8 +236,18 @@ hash = "f87f921963470a9a2297bf391a408cdabcaaeabed7333e11d7847ea99cd66725"
 metafile = true
 
 [[files]]
+file = "mods/corpse-x-curios-api-compat.pw.toml"
+hash = "090c6b33608760879872f858b33831028240c36ce6de2d2832c575e9246f6b67"
+metafile = true
+
+[[files]]
 file = "mods/corpse.pw.toml"
 hash = "41fc2f21422cff66da8163bfc3410242b3a68ced49597b2a37f5f7d937ecb636"
+metafile = true
+
+[[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
 metafile = true
 
 [[files]]
@@ -546,6 +560,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-engineering.pw.toml"
 hash = "5508a5c035dffcb22c6ff5b2a52235f753fc4361221be8b97c25b8650efefba6"
+metafile = true
+
+[[files]]
+file = "mods/industrial-foregoing.pw.toml"
+hash = "fb01bfe36262e48cb1e11eedcd5421f67c58dce3f5bc9d69ef32a1aa2156449e"
 metafile = true
 
 [[files]]

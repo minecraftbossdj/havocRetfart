@@ -1,0 +1,13 @@
+name = "Corpse x Curios API Compat"
+filename = "corpsecurioscompat-1.18.x-1.20.x-Forge-2.2.0.jar.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/pJGcKPh1/versions/5uoD1Sjc/corpsecurioscompat-1.18.x-1.20.x-Forge-2.2.0.jar.jar"
+hash-format = "sha512"
+hash = "876354c9e66403a79a6294776c5346d0510af60ba83936852f854c6020ebe6f816f48d19eb88d3ba0edb36c42ee4f54f400b5a8691ac224c16d43805ce2040ca"
+
+[update]
+[update.modrinth]
+mod-id = "pJGcKPh1"
+version = "5uoD1Sjc"
