@@ -692,8 +692,18 @@ hash = "6d52b6989ddabb53a1f86aee4ab315c2c8726b800276975eb510a31884891082"
 metafile = true
 
 [[files]]
+file = "mods/mmmmmmmmmmmm.pw.toml"
+hash = "6b336af5a4e2e7e3ac54057894eb284d66d61682bd522c6582d37fedbc9e8183"
+metafile = true
+
+[[files]]
 file = "mods/modlistobserver.pw.toml"
 hash = "567d6baacab5599137f16ac97a7c4dd4cea0075f72ed15230e64125455eddc3a"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "a017f7dc2f401bfe54ba3c1d7674dfa7d99cc798912873a00a957c3fcd70cb0e"
 metafile = true
 
 [[files]]
